@@ -20,7 +20,7 @@ I'm Xiangjun Song, a master's student at the School of Information Engineering, 
 
 ### Advisor
 
-I am fortunate to be advised by [Prof. Li Wei](https://example.com/professor-li-wei) from the School of Information Engineering, Chang'an University. Prof. Li Wei's research interests include:
+I am fortunate to be advised by [Prof. Li Wei] from the School of Information Engineering, Chang'an University. Prof. Li Wei's research interests include:
 
 1. Large Models for Intelligent Transportation
 2. Multi-Modal Multi-Target Tracking
